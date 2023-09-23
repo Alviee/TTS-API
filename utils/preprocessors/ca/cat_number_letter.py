@@ -78,7 +78,6 @@ def num_let(numero):
         resultado = '%s %s' % (resultado, letras_decimal)
     return resultado
     
-    
 def leer_decenas(numero):
     if numero < 10:
         return UNIDADES[numero]

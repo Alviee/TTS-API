@@ -126,8 +126,8 @@
             "voice": "ona-vits-fromCV",
             "lang": "ca",
             "model_type": "coqui",
-            "tts_config_path": "ca/vits_fromCV_config.json",
-            "tts_model_path": "ca/vits_fromCV_best_model_761185.pth",
+            "tts_config_path": "ca_config.json",
+            "tts_model_path": "ca_model_file.pth",
             "load": false
         },
         {
